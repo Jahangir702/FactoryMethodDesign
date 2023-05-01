@@ -1,0 +1,8 @@
+D:\R54\M2\Projects\7\Ex03Project_FactoryMethorPattern\Ex03Project_FactoryMethorPattern\bin\Debug\Ex03Project_FactoryMethorPattern.exe.config
+D:\R54\M2\Projects\7\Ex03Project_FactoryMethorPattern\Ex03Project_FactoryMethorPattern\bin\Debug\Ex03Project_FactoryMethorPattern.exe
+D:\R54\M2\Projects\7\Ex03Project_FactoryMethorPattern\Ex03Project_FactoryMethorPattern\bin\Debug\Ex03Project_FactoryMethorPattern.pdb
+D:\R54\M2\Projects\7\Ex03Project_FactoryMethorPattern\Ex03Project_FactoryMethorPattern\obj\Debug\Ex03Project_FactoryMethorPattern.csproj.AssemblyReference.cache
+D:\R54\M2\Projects\7\Ex03Project_FactoryMethorPattern\Ex03Project_FactoryMethorPattern\obj\Debug\Ex03Project_FactoryMethorPattern.csproj.SuggestedBindingRedirects.cache
+D:\R54\M2\Projects\7\Ex03Project_FactoryMethorPattern\Ex03Project_FactoryMethorPattern\obj\Debug\Ex03Project_FactoryMethorPattern.csproj.CoreCompileInputs.cache
+D:\R54\M2\Projects\7\Ex03Project_FactoryMethorPattern\Ex03Project_FactoryMethorPattern\obj\Debug\Ex03Project_FactoryMethorPattern.exe
+D:\R54\M2\Projects\7\Ex03Project_FactoryMethorPattern\Ex03Project_FactoryMethorPattern\obj\Debug\Ex03Project_FactoryMethorPattern.pdb
